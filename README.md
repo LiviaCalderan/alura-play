@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/liviacalderan/alura-play?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/liviacalderan/alura-play?style=for-the-badge)
 
-<img src="/img/em-breve.jpg" alt="Em breve">
+<img src="/img/alura-play.PNG" alt="Em breve">
 
 ---
 
